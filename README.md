@@ -1,0 +1,2 @@
+# appdetails.json
+app details
